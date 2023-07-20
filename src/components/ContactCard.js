@@ -13,10 +13,10 @@ export default function ContactCard({ icon, titre, content }) {
                         </div>
                         <div className='content-contact'>
                             <div className='title-contact'>{titre}</div>
-                            <div>
+                            <div className='space-x-5'>
                                 <FontAwesomeIcon icon={content.facebook} />
-                                <FontAwesomeIcon icon={content.facebook} />
-                                <FontAwesomeIcon icon={content.facebook} />
+                                <FontAwesomeIcon icon={content.linkedin} />
+                                <FontAwesomeIcon icon={content.github} />
                             </div>
                         </div>
                     </div>

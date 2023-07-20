@@ -5,8 +5,8 @@ import '../css/Language.css'
 export default function Compétence() {
     return (
         <div className='text-center py-10'>
-            <h1 className='text-2xl font-bold '> COMPETENCES</h1>
-            <div className='flex justify-between w-full flex-col space-x-0 sm:space-x-5   sm:flex-row lg:w-3/5 px-7 lg:px-0 m-auto py-10'>
+            <h1 className='text-2xl font-bold text-[#666666]'> COMPETENCES</h1>
+            <div className='flex justify-between w-full flex-col space-x-0 sm:space-x-5 text-[#666666]  sm:flex-row lg:w-3/5 px-7 lg:px-0 m-auto py-10'>
                 <div className='w-full'>
                     <Language pourcentageValue={'w-10/12'}
                         language={'HTML'}

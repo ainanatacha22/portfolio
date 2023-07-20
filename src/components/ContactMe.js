@@ -1,6 +1,7 @@
 import React from 'react'
 import ContactCard from './ContactCard'
-import { faLocation, faShare } from '@fortawesome/free-solid-svg-icons'
+import { faLocation,faEnvelope, faShare, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { faFacebook, faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons"
 
 import '../css/ContactMe.css'
 
@@ -8,7 +9,9 @@ import '../css/ContactMe.css'
 
 export default function ContactMe() {
     const content = {
-        "facebook": faLocation,
+        "facebook": faFacebook,
+        "linkedin": faLinkedin,
+        "github": faGithub,
     }
     return (
         <div className='ContactMe mt-14' id='contact'>
@@ -22,8 +25,8 @@ export default function ContactMe() {
                     <ContactCard icon={faShare} titre='SOCIAL PROFILES' content={content} />
                 </div>
                 <div className='flex space-y-4 space-x-0 sm:space-y-0 sm:space-x-5 w-full flex-col sm:flex-row px-7 lg:w-3/5 lg:px-0 m-auto'>
-                    <ContactCard icon={faLocation} titre='EMAIL ME' content='aina2natacha@gmail.com' />
-                    <ContactCard icon={faShare} titre='CALL ME' content='0347647664' />
+                    <ContactCard icon={faEnvelope} titre='EMAIL ME' content='aina2natacha@gmail.com' />
+                    <ContactCard icon={faPhone} titre='CALL ME' content='0347647664' />
                 </div>
             </div>
         </div>

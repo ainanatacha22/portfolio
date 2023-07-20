@@ -5,7 +5,7 @@ export default function Experience() {
     return (
         <div className='space-y-3 w-full'>
             <h1 className='text-2xl font-bold text-[#666666;]'>EXPERIENCES</h1>
-            <div className='border-r-2 px-4 space-y-3'>
+            <div className='border-r-2 px-4 space-y-3 text-[#666666]'>
                 <Card className={'cardExperience lg:h-44'}
                     title={"Développeur front-end / 2022-2023"}
                     soustitle={"CSS HTML, JS, React"}
