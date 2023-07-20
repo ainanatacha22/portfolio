@@ -6,7 +6,7 @@ import '../css/Apropos.css'
 export const Apropos = () => {
     return (
         <div className='apropos flex-col justify-center'>
-            <img className='image' src={Image} />
+            <img className='image' src={Image} alt='img'/>
             <div className='container'>
                 <h2 className='title text-xl mt-6 sm:text-3xl sm:mt-5'>
                     <span className='title-word title-word-1'>je </span>

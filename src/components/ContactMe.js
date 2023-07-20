@@ -1,6 +1,6 @@
 import React from 'react'
 import ContactCard from './ContactCard'
-import { faLocation, faShare, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { faLocation, faShare } from '@fortawesome/free-solid-svg-icons'
 
 import '../css/ContactMe.css'
 
