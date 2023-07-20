@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b277c978.css",
+    "main.js": "/portfolio/static/js/main.c871f904.js",
+    "static/js/787.6d185335.chunk.js": "/portfolio/static/js/787.6d185335.chunk.js",
+    "static/media/huile.jpg": "/portfolio/static/media/huile.2f2376b5393c722e7144.jpg",
+    "static/media/nata.jpg": "/portfolio/static/media/nata.91f8b4590580783f76a4.jpg",
+    "static/media/background.jpg": "/portfolio/static/media/background.5a347ce6c1a740d31523.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.b277c978.css.map": "/portfolio/static/css/main.b277c978.css.map",
+    "main.c871f904.js.map": "/portfolio/static/js/main.c871f904.js.map",
+    "787.6d185335.chunk.js.map": "/portfolio/static/js/787.6d185335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b277c978.css",
+    "static/js/main.c871f904.js"
+  ]
+}
