@@ -1,0 +1,161 @@
+.html {
+    height: 60px;
+}
+
+.html::before {
+    content: '';
+    width: 29%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    border-radius: 3px;
+    margin-top: 20px;
+
+}
+
+.html::after {
+    content: '';
+    width: 26%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: #fbbd23;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.css {
+    height: 60px;
+}
+
+.css::before {
+    content: '';
+    width: 29%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.css::after {
+    content: '';
+    width: 23%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: #fbbd23;
+    border-radius: 3px;
+    margin-top: 20px;
+
+}
+
+.javascript {
+    height: 60px;
+}
+
+.javascript::before {
+    content: '';
+    width: 29%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.javascript::after {
+    content: '';
+    width: 20%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: #fbbd23;
+    border-radius: 3px;
+    margin-top: 20px;
+
+}
+
+.jquery {
+    height: 60px;
+}
+
+.jquery::before {
+    content: '';
+    width: 29%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.jquery::after {
+    content: '';
+    width: 20%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: #fbbd23;
+    border-radius: 3px;
+    margin-top: 20px;
+
+}
+
+.react {
+    height: 60px;
+}
+
+.react::before {
+    content: '';
+    width: 29%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.react::after {
+    content: '';
+    width: 18%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: #fbbd23;
+    border-radius: 3px;
+    margin-top: 20px;
+
+}
+
+.wordpress {
+    height: 60px;
+}
+
+.wordpress::before {
+    content: '';
+    width: 29%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgb(221, 221, 221);
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.wordpress::after {
+    content: '';
+    width: 15%;
+    height: 10px;
+    position: absolute;
+    display: block;
+    background-color: #fbbd23;
+    border-radius: 3px;
+    margin-top: 20px;
+
+}

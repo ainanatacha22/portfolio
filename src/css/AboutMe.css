@@ -1,0 +1,67 @@
+.aboutMe {
+    color: #666666;
+
+
+
+}
+
+.about {
+    text-align: center;
+    font-size: 40px;
+}
+
+.aboutme {
+
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+}
+
+h1 span {
+    color: #fbbd23;
+    font-size: 40px;
+}
+
+
+
+.titre {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+.ligneBas {
+    background: #666666;
+    width: 120px;
+    height: 5px;
+    border-radius: 5px;
+
+
+
+
+}
+
+.ligneBas::before {
+    content: "";
+    width: 10px;
+    height: 5px;
+    background-color: #fbbd23;
+    animation: test 2s infinite;
+    border-radius: 5px;
+    display: block;
+    position: relative;
+
+
+}
+
+@keyframes test {
+
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: calc(100% - 10px);
+    }
+}

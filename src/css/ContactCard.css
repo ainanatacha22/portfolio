@@ -1,0 +1,16 @@
+.body-contact{
+    border: 1px solid grey;
+    padding: 12px;
+    border-radius: 4px;
+    display: flex;
+
+}
+
+.icon-contact{
+    width: 60px;
+}
+
+.title-contact{
+    font-weight: bold;
+    color: #666666;
+}
