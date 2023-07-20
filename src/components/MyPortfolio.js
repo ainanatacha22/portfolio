@@ -1,5 +1,4 @@
 import React from 'react'
-import MyButton from './myButton'
 import '../css/MyPortfolio.css'
 import Projet from './Projet'
 import Image from '../assets/huile.jpg'

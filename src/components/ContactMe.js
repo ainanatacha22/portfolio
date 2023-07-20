@@ -1,8 +1,6 @@
 import React from 'react'
-import MyButton from './myButton'
 import ContactCard from './ContactCard'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLocation, faVoicemail, faShare, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { faLocation, faShare, faPhone } from '@fortawesome/free-solid-svg-icons'
 
 import '../css/ContactMe.css'
 
