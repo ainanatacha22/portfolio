@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faFacebook, faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons"
+import { faFacebook, faLinkedin } from "@fortawesome/free-brands-svg-icons"
 
 export default function Footer() {
   const handleLinkClick = (event) => {

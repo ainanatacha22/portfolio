@@ -1,6 +1,5 @@
 import React from 'react'
 import Header from './components/Header'
-import MyButton from './components/myButton'
 import AboutMe from './components/AboutMe'
 import Formation from './components/Formation'
 import Experience from './components/Experience'
