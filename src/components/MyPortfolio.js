@@ -15,7 +15,6 @@ export default function MyPortfolio() {
             </div>
             <div className='flex m-auto justify-center'>
                 <div className='flex space-x-0 space-y-6 flex-col px-7 w-full sm:space-y-0 sm:space-x-4 sm:flex-row lg:w-3/5 lx:px-0 text-center text-xl '>
-                    {/* <Projet image={ravimaintso} text='HUILE ESSENTIELLE' url="https://ainanatacha22.github.io/ravitsara/"/> */}
                     <Projet image={blog} text='BLOG' url="https://myblognat.netlify.app/"/>
                     <Projet image={todo} text='TODO LIST' url=" https://todolist-nat.netlify.app/"/>
                 </div>
