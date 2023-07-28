@@ -21,7 +21,6 @@ export default function ContactCard({ icon, titre, content }) {
                             <div className='space-x-5'>
                                 <a href='https://www.facebook.com/ainanatacha.vanichukii' onClick={handleLinkClick}><FontAwesomeIcon icon={content.facebook} /> </a>
                                 <a href='#'>  <FontAwesomeIcon icon={content.linkedin} /></a>
-                                <a href='https://github.com/ainanatacha22' onClick={handleLinkClick}>   <FontAwesomeIcon icon={content.github} /></a>
                             </div>
                         </div>
                     </div>

@@ -17,7 +17,6 @@ export default function Footer() {
         <div className='space-x-5'>
             <a href='https://www.facebook.com/ainanatacha.vanichukii' onClick={handleLinkClick}><FontAwesomeIcon icon={faFacebook} className='text-2xl cursor-pointer'/></a>
             <a href='#'><FontAwesomeIcon icon={faLinkedin} className='text-2xl cursor-pointer'/></a> 
-            <a href='https://github.com/ainanatacha22' onClick={handleLinkClick}><FontAwesomeIcon icon={faGithub} className='text-2xl cursor-pointer'/></a> 
         </div>
       </div>
     </div>
