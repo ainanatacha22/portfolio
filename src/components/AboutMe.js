@@ -1,5 +1,4 @@
 import React from 'react'
-import MyButton from './myButton'
 import '../css/AboutMe.css'
 import resume from '../resume/CV-NATA.pdf'
 
