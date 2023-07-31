@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.21bcd270.css",
-    "main.js": "/portfolio/static/js/main.b74b8310.js",
+    "main.css": "/portfolio/static/css/main.ebc13ef1.css",
+    "main.js": "/portfolio/static/js/main.1a361b13.js",
     "static/js/787.6d185335.chunk.js": "/portfolio/static/js/787.6d185335.chunk.js",
     "static/media/nata.jpg": "/portfolio/static/media/nata.91f8b4590580783f76a4.jpg",
     "static/media/background.jpg": "/portfolio/static/media/background.5a347ce6c1a740d31523.jpg",
+    "static/media/CV-NATA.pdf": "/portfolio/static/media/CV-NATA.386522a00defab25bee1.pdf",
     "static/media/ravimaintso.jpg": "/portfolio/static/media/ravimaintso.4b35b59cfe1315a1cfce.jpg",
     "static/media/blog.jpg": "/portfolio/static/media/blog.d426ae46613fb835319c.jpg",
     "static/media/todo.png": "/portfolio/static/media/todo.acffe87caa87d7c16295.png",
     "index.html": "/portfolio/index.html",
-    "main.21bcd270.css.map": "/portfolio/static/css/main.21bcd270.css.map",
-    "main.b74b8310.js.map": "/portfolio/static/js/main.b74b8310.js.map",
+    "main.ebc13ef1.css.map": "/portfolio/static/css/main.ebc13ef1.css.map",
+    "main.1a361b13.js.map": "/portfolio/static/js/main.1a361b13.js.map",
     "787.6d185335.chunk.js.map": "/portfolio/static/js/787.6d185335.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21bcd270.css",
-    "static/js/main.b74b8310.js"
+    "static/css/main.ebc13ef1.css",
+    "static/js/main.1a361b13.js"
   ]
 }
