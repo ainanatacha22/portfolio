@@ -87,7 +87,7 @@ ul li{
     background-color: #574c4c;
   }
 
-@media screen and (max-width: 882px) {
+@media screen and (max-width: 911px) {
     .menu-icon {
         display: block;
         cursor: pointer;
