@@ -7,7 +7,7 @@ export default function AboutMe() {
     return (
         <div className='aboutMe mt-14' id='about'>
             <div className='titre my-10'>
-                <h1 className='about'>ABOUT  <span> ME</span></h1>
+                <h1 className='about'>A PROPOS</h1>
                 <span className="ligneBas"></span>
             </div>
             <div className='space-y-5 px-7 lg:px-0'>
@@ -18,16 +18,15 @@ export default function AboutMe() {
                 </div>
                 <div className='aboutme p-6 rounded-2xl flex justify-between text-center m-auto w-full flex-col space-y-4 sm:flex-row sm:space-y-0 lg:w-3/5 '>
                     <div className='w-full'>
-                        <p><span className='font-semibold'>Prénom</span>: Natacha</p>
-                        <p><span className='font-semibold'>Date de naissance</span>: 13 Août 1991</p>
-                        <p><span className='font-semibold'>Adresse</span>: Mahazoarivo Nord</p>
+                        <p><span className='font-semibold'>Nom</span>: RAKOTONDRASOA</p>
+                        <p><span className='font-semibold'>Prénoms</span>: Aina Natacha</p>
+                        <p><span className='font-semibold'>Adresse</span>: Andohanimandroseza Tanà</p>
 
                     </div>
                     <div className='w-full'>
                         <p><span className='font-semibold'>Numéro tel</span>: 0347647664</p>
                         <p><span className='font-semibold'>E-mail</span>: aina2natacha@gmail.com</p>
-                        <p><span className='font-semibold'>skype</span>: Rakotondrasoa aina</p>
-                        <p><span className='font-semibold'>Languages</span>: Francais, Malagasy</p>
+                        <p><span className='font-semibold'>Languages</span>: Francais, Anglais, Malagasy</p>
                     </div>
                 </div>
             </div>

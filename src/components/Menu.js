@@ -33,15 +33,15 @@ export default function Menu() {
       <h1 className='nata'>AINA NATACHA</h1>
       <div className={`wrapper  ${showNavbar && "active"}`}>
         <ul className={color ? 'blanc' : 'jaune'} >
-          <li> <a href="#home"><FontAwesomeIcon icon={faHouse} />  home </a></li>
-          <li><a onClick={(e) => handleLinkClick(e, '#about')} href="#about"><FontAwesomeIcon icon={faUser} />  about </a></li>
+          <li> <a href="#home"><FontAwesomeIcon icon={faHouse} />  accueil </a></li>
+          <li><a onClick={(e) => handleLinkClick(e, '#about')} href="#about"><FontAwesomeIcon icon={faUser} />  a propos </a></li>
           <li><a onClick={(e) => handleLinkClick(e, '#service')} href="#service"><FontAwesomeIcon icon={faBlog} />  service</a></li>
           <li><a onClick={(e) => handleLinkClick(e, '#portfolio')} href="#portfolio"><FontAwesomeIcon icon={faBriefcase} />  portfolio</a></li>
           <li><a onClick={(e) => handleLinkClick(e, '#contact')} href="#contact"><FontAwesomeIcon icon={faContactBook} />  contact</a></li>
         </ul>
       </div>
       <div className='menu-icon'>
-        <button onClick={() => setShowNavbar(!showNavbar)}>
+        <button onClick={() => setShowNavbar(!showNavbar)}> 
           {
             !showNavbar ?
             <FontAwesomeIcon icon={faBars} style={{fontSize:25}}/>

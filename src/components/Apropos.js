@@ -8,7 +8,7 @@ export const Apropos = () => {
         <div className='apropos flex-col justify-center'>
             <img className='image' src={Image} alt='img'/>
             <div className='container'>
-                <h2 className='title text-xl mt-6 sm:text-3xl sm:mt-5'>
+                <h2 className='title text-xl mt-8 sm:text-3xl sm:mt-5'>
                     <span className='title-word title-word-1'>je </span>
                     <span className='title-word title-word-2'>suis </span>
                     <span className='title-word title-word-3'>développeuse</span>

@@ -10,7 +10,7 @@ export default function MyPortfolio() {
     return (
         <div className='myPortfolio mt-14' id='portfolio'>
             <div className='titre my-10'>
-                <h1 className='my'> MY <span> PORTFOLIO</span></h1>
+                <h1 className='my'> MES <span> PORTFOLIO</span></h1>
                 <span className="ligneBas"></span>
             </div>
             <div className='flex m-auto justify-center'>

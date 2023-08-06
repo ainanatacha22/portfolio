@@ -11,7 +11,7 @@ export default function ContactCard({ icon, titre, content }) {
     return (
         <div className='flex justify-center w-full'>
             {
-                (titre === "SOCIAL PROFILES") ?
+                (titre === "RESEAUX SOCIAUX") ?
                     <div className='body-contact w-full'>
                         <div className='icon-contact'>
                             <FontAwesomeIcon icon={icon} />
