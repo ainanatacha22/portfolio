@@ -4,6 +4,7 @@ import Projet from './Projet'
 import ravimaintso from '../assets/ravimaintso.jpg'
 import blog from '../assets/blog.jpg'
 import todo from '../assets/todo.png'
+import pizza from '../assets/pizza.png'
 
 
 export default function MyPortfolio() {
@@ -18,6 +19,7 @@ export default function MyPortfolio() {
                     <Projet image={ravimaintso} text='HUILE ESSENTIELLE' url="https://ainanatacha22.github.io/ravitsara/"/>
                     <Projet image={blog} text='BLOG' url="https://myblognat.netlify.app/"/>
                     <Projet image={todo} text='TODO LIST' url=" https://todolist-nat.netlify.app/"/>
+                    <Projet image={pizza} text='PIZZA' url="https://ainanatacha22.github.io/ventepizza/" />
                 </div>
             </div>
         </div>
